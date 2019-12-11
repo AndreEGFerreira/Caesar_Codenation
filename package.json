@@ -1,0 +1,17 @@
+{
+  "name": "f2irmao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ttx_faz_programa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "sha1": "^1.1.1"
+  }
+}
